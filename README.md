@@ -4,8 +4,10 @@ Get started with Razor Pages in ASP.NET Core link: https://learn.microsoft.com/e
 
 EF = Entity Framework
 
-ASP = Active Server Pages 
+ASP = Active Server Pages
 
 MVC = Model View Controller
 
-Razor Pages - newer, simplified web application programming model. It removes much of the ceremony of ASP.NET MVC by adopting a file-based routing approach. 
+LINQ - Language Integrated Query
+
+Razor Pages - newer, simplified web application programming model. It removes much of the ceremony of ASP.NET MVC by adopting a file-based routing approach.

@@ -10614,19 +10614,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CFXHy\\Documents\\GitHub\\ef-core-tutorial\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "D:\\Github\\Repos's\\razor-pages-tutorial\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\CFXHy\\Documents\\GitHub\\ef-core-tutorial\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "D:\\Github\\Repos's\\razor-pages-tutorial\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\CFXHy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CFXHy\\Documents\\GitHub\\ef-core-tutorial\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
+      "outputPath": "D:\\Github\\Repos's\\razor-pages-tutorial\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CFXHy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\CFXHy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
