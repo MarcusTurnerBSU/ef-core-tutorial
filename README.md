@@ -1,6 +1,6 @@
-# ef-core-tutorial
+# razor-pages-tutorial
 
-Razor Pages with Entity Framework Core in ASP.NET Core link: https://learn.microsoft.com/en-us/aspnet/core/data/ef-rp/intro?view=aspnetcore-7.0&tabs=visual-studio
+Get started with Razor Pages in ASP.NET Core link: https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-7.0&tabs=visual-studio
 
 EF = Entity Framework
 
